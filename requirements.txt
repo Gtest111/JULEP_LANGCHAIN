@@ -1,0 +1,6 @@
+langchain
+julep
+pydantic
+requests
+pyyaml
+langchain-core

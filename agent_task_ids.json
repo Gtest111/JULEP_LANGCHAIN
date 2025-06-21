@@ -1,0 +1,6 @@
+{
+  "name": "Cuisine Assistant",
+  "model": "cerebras/llama-4-scout-17b-16e-instruct",
+  "agent_id": "0685671c-189f-76cc-8000-df5737684654",
+  "task_id": "0685671c-1e68-760b-8000-1fccf980390a"
+}
